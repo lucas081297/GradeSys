@@ -1,0 +1,12 @@
+{
+  "name": "devtrainning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GradeSys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node GradeSys"
+  },
+  "author": "",
+  "license": "ISC"
+}
